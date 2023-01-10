@@ -29,6 +29,7 @@ Collection postman
 - Spring Boot (v2.7.7)
 - Postgresql
 - Swagger
+- Junit (79& Covarage)
 
 #Paths
 
